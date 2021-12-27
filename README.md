@@ -1,2 +1,2 @@
 # firstwebsitelooplab
-https://sagormhia.github.io/looplab/
+https://sagormhia.github.io/looplab
